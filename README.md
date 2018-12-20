@@ -1,4 +1,4 @@
-# prog.1
+# pr.1 project
 Programming 1 project:
 
 Analysis of data from the 2017 NFL regular season, top 50 players of each category
