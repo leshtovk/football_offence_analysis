@@ -11,7 +11,8 @@ The data in this analysis:
 - The top 50 players in the passing, rushing and receiving categories 
 - The regular season standings 
 
-Source: 
+Sources: 
+
 [stats 2017](http://www.nfl.com/stats/player?seasonId=2017&seasonType=REG&Submit=Go)
 
 [standings 2017](https://www.nfl.com/standings/league/2017/REG)
