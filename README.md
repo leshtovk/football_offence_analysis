@@ -13,6 +13,7 @@ The data in this analysis:
 
 Source: 
 [stats 2017](http://www.nfl.com/stats/player?seasonId=2017&seasonType=REG&Submit=Go)
+[standings 2017](https://www.nfl.com/standings/league/2017/REG)
 
 Outline:
 
