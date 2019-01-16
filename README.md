@@ -1,5 +1,7 @@
 # Offensive players and team performance in the 2017/18 NFL season
 
+Note: The final result is located in the file 'project_finished'
+
 The NFL Season consists of a 16-game regular season, followed by the playoffs.
 There are 32 teams in the league which consist of 46 active players, 11 of which (at most) can be on the field at one time. 
 The same players do not play both offence and defence as in most team sports. When one team is on offence it uses its offensive team and when it is on defence it uses its defensive team. Also there are special teams which appear much less than the previous two and their performance (generally) does not have a major impact on the outcome of games. 
