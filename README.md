@@ -1,6 +1,6 @@
 # Offensive players and team performance in the 2017/18 NFL season
 
-This was my final project for the course Programming 1
+This was my final project for the course Programming 1. At the time I had not yet taken statistics in college, so the analysis is done on the basis of visual representation of the data.
 
 The NFL Season consists of a 16-game regular season, followed by the playoffs.
 There are 32 teams in the league which consist of 46 active players, 11 of which (at most) can be on the field at one time. 
